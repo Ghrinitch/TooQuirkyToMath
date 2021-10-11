@@ -1,9 +1,4 @@
-input {
-	width: 100%;
-}
-input[type="button"],
-input[type="submit"],
-input[type="reset"] {
+button{
 	background-color: #4caf50;
 	border: none;
 	color: white;
