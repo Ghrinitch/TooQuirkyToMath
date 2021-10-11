@@ -55,5 +55,5 @@ butt.addEventListener("click", (day, month) => {
 
 	console.log(`${dates} `);
 
-	result.innerHTML = `${today.toLocaleDateString("en-Uk")} `;
+	result.innerHTML = `21 business days end on: ${today.toLocaleDateString("en-Uk")} `;
 });
